@@ -1,0 +1,32 @@
+getDepartments([
+  {
+    "name": "Computer Science",
+    "url": "https://www.sfasu.edu/academics/colleges/sciences-math/computer-science",
+    "desc": "The field of computer science is one of the fastest growing sectors of the global economy. Every aspect of modern life is touched by computers. Whether you dream of being a software engineer, designing video games or teaching the next generation, a foundation in computer science is a valuable asset when starting a rewarding career or pursuing further education.",
+    "picFileName": "compsci.jpg"
+  },
+  {
+    "name": "Internet Technologies",
+    "url": "https://www.sfasu.edu/academics/colleges/sciences-math/computer-science/academics/information-technology",
+    "desc": "It's inevitable in business these days: everyone knows the office IT person. While computer scientists concentrate on theory and languages to create new technology, information technology professionals put the rubber to the road to make technology work in the real world. If you are the practical type who takes satisfaction from seeing systems run smoothly and helping people solve technical problems, you should consider a degree in IT.",
+    "picFileName": "it.jpg"
+  },
+  {
+    "name": "Physics, Engineering, and Astronomy",
+    "url": "https://www.sfasu.edu/academics/colleges/sciences-math/physics-engineering-astronomy",
+    "desc": "Each day, we unlock the mysteries of the physical universe through the disciplines of physics, engineering and astronomy. Our faculty and staff will serve as your mentors and emphasize teamwork to build a spirit of cooperation between you and your fellow students. Most importantly, you will have opportunities to participate in research - even at the undergraduate level.",
+    "picFileName": "physics.jpg"
+  },
+  {
+    "name": "Chemistry and Biochemistry",
+    "url": "https://www.sfasu.edu/academics/colleges/sciences-math/chemistry-biochemistry",
+    "desc": "Our mission is to educate, train and prepare students for what ultimately will become their life's work. You will benefit from rigorous coursework, strong mentoring, hands-on research projects and access to state-of-the-art instrumentation - all to prepare you for a successful career after graduation.",
+    "picFileName": "chem.jpg"
+  },
+  {
+    "name": "Psychology",
+    "url": "https://www.sfasu.edu/academics/colleges/sciences-math/chemistry-biochemishttps://www.sfasu.edu/academics/colleges/liberal-applied-arts/psychology",
+    "desc": "Unlock the mysteries of the human mind and behavior by employing the scientific method and advanced technology to explore a range of psychology disciplines and applications. From cognitive to social to developmental to clinical to behavioral neural science, each of our faculty members pursue research interests that provide you with high-impact, hands-on learning opportunities.",
+    "picFileName": "psycho.jpg"
+  }
+]);

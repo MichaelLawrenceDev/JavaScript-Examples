@@ -1,0 +1,25 @@
+/* 
+Michael Lawrence 
+CSS-3351-001
+11/3/2021
+*/
+
+#Footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	padding: 5px;
+}
+
+body {
+	text-align: center;
+	background-color: tan;
+}
+
+#img {
+	width: 25%;
+}
+
+#desc {
+	padding: 25px;
+}
